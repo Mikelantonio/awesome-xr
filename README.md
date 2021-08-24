@@ -12,7 +12,7 @@ Each category has the following sections:
 - Devices
 - Frameworks
 - Libs
-- Resources
+- Tools & Resources
 - Amazing Apps
 
 # Contributing
@@ -20,6 +20,12 @@ Each category has the following sections:
 Your contributions are always welcome! Please read the contribution guidelines first.
 
 # Content
+
+## 3D Engines
+- [Unity3D]()
+- [Unreal Engine]()
+- [Amazon Sumerian]()
+- [Filament]()
 
 ## Virtual Reality
 
@@ -52,9 +58,15 @@ VR is a realistic and immersive simulation of a three-dimensional 360-degree env
 
 ### Libs
 
-### Resources
+### Tools & Resources
+- [Manus VR]()
+- [Leap Motion]()
+- [Omni by Virtuix]()
 
-### Amazin apps
+### Amazing apps
+- [SuperHOT]()
+- [AltSpaceVR]()
+- [BIG Screen]()
 
 ## Augmented Reality
 
@@ -78,8 +90,10 @@ AR is a live direct or indirect view of a physical, real-world environment whose
 - [Realwear HMT-1Z1]()
 
 ### Frameworks
+- [Vuforia]()
 
 ### Libs
+
 
 ### Resources
 
@@ -93,9 +107,9 @@ AR is a live direct or indirect view of a physical, real-world environment whose
 
 ### Libs
 
-### Resources
+### Tools & Resources
 
-### Amazin apps
+### Amazing apps
 
 ## Mixed Reality
 
@@ -108,16 +122,33 @@ MR is the merging of real and virtual worlds to produce new environments and vis
 - [Third Eye]()
 - [Meta Vision]()
 - [Daqri]()
+- [Project North Star]()
+- [Android devices]()
+- [iOS devices]()
 
 ### Frameworks
+- [A-Frame]()
+- [Babylon js]()
+- [Three.js]()
+- [ARCore]()
+- [ARKit]()
+- [MRTK]()
+- [Wikitude]()
+- [Unity AR Foundation]()
+- [8thWall]()
+- [SparkAR by Instagram]()
+- [Lens Studio by SnapChat]()
+- [Real world platform by Niantic]()
 
 ### Libs
 
-### Resources
+### Tools & Resources
+- [Unity Mars]()
 
-### Amazin apps
-
-
-
+### Amazing apps
+- [Pokemon GO]()
+- [Just a Line]()
+- [AR Elements]()
+- [Lines of Play]()
 
 
